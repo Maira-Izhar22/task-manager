@@ -1,0 +1,13 @@
+.container {
+  width: 400px;
+  margin: 40px auto;
+}
+
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.error {
+  color: red;
+}
