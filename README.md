@@ -15,8 +15,9 @@ cd frontend
 npm install
 npm start
 
-## API Endpoints
-POST /tasks
-GET /tasks
-PATCH /tasks/:id
-DELETE /tasks/:id
+### API Endpoints
+
+- `POST /tasks`
+- `GET /tasks`
+- `PATCH /tasks/:id`
+- `DELETE /tasks/:id`
