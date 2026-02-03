@@ -1,9 +1,5 @@
-# Node
 node_modules/
-
-# Environment variables
+tasks.db
 .env
-
-# Build outputs
 build/
 dist/
